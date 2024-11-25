@@ -1,0 +1,59 @@
+.minha-div {
+    text-align: center;
+    background-color: rgb(19, 3, 97);
+    padding: 0px;
+    margin-top: 0%;
+    word-spacing: 10px;
+    color: rgb(76, 170, 214);
+    border-radius: 10px;
+
+}
+
+.eu-div {
+    text-align: center;
+    border-radius: 10px;
+    padding: 0px;
+    background-color: rgb(19, 3, 97);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    color:rgb(76, 170, 214);
+
+}
+
+.ka{
+    color:rgb(19, 3, 97);
+}
+ 
+form {
+    width: 400px;           
+    height: 400px;          
+    background-color:rgb(76, 170, 214);
+    padding: 20px;           
+    display: flex;
+    flex-direction: column;  
+    justify-content: space-between; 
+    border-radius: 10px;    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+button{
+    background-color:rgb(19, 3, 97);
+    color: rgb(255, 255, 255);
+}
+
